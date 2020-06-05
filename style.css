@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+        }
+        #top {
+            text-align:center;
+        }
+    #logo {
+    color: black;
+    background-color: white;
+    display: inline;
+    font-size: 32px;
+    font-weight: bold;
+    }
+    #logo-text {
+        color: black;
+    background-color: white;
+    display:inline;
+     font-size: 32px;
+     font-weight: bold;
+    
+    }
+    #Navigation a {
+        color: gray;
+        padding: 8px;
+        margin-top: 10px;
+    }
+    #Navigation a:hover{
+        color: black;
+    }
+    #top-bild img {
+        width: 99%;
+        height: 50%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #main {
+        max-width: 60%;
+        margin: auto;
+    }
+    #footer {
+        text-align: center;
+        margin-top: 1%;
+    }
